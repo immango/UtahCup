@@ -18,6 +18,6 @@ clone这个项目 项目地址 https://github.com/immango/Utah
 
 运行结果：
 
-![](D:\github\Utah\Utah.png)
+![](Utah.png)
 
 License ：GPL 请悉知。
